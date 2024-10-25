@@ -7,8 +7,8 @@
     "keybinds" :
     [
     	{
-    		"keybind_id" : "quandiesmod_release_from_custody",
-    		"name" : "Release from custody",
+    		"keybind_id" : "quandiesmod_release_from_custody_clean",
+    		"name" : "Release from custody clean",
     		"description" : "A keybind to press in-game which should release you from custody"
     		"script_path" : "getoutta.lua",
     		"run_in_menu" : false,
