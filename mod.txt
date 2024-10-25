@@ -1,0 +1,19 @@
+{
+	"name" : "Get rid of that custody",
+	"description" : "Release yourself from custody",
+ 	"author" : "real_quandie",
+    "contact" : "@real_quandie on discord",
+    "version" : "1.0",
+    "keybinds" :
+    [
+    	{
+    		"keybind_id" : "quandiesmod_release_from_custody",
+    		"name" : "Release from custody",
+    		"description" : "A keybind to press in-game which should release you from custody"
+    		"script_path" : "getoutta.lua",
+    		"run_in_menu" : false,
+    		"run_in_game" : true,
+    		"localized" : false
+    	}
+    ]
+}
